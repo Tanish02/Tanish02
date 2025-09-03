@@ -56,20 +56,21 @@ Here’s my toolkit — the toys I love tinkering with:
 ---
 
 
-## 📊 GitHub Stats  
+## 🎮 GitHub Leaderboard  
 
 <div align="center">
 
-⚡ Overall Activity  
-![Stats](https://github-readme-stats.vercel.app/api?username=Tanish02&show_icons=true&theme=radical&hide_border=true&rank_icon=percentile)  
+🏆 **Level Progress**  
+![Stats](https://github-readme-stats.vercel.app/api?username=Tanish02&show_icons=true&theme=chartreuse-dark&hide_border=true&rank_icon=github)  
 
-🔥 Streak Power  
-![Streak](https://streak-stats.demolab.com?user=Tanish02&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)  
+🔥 **Combo Streaks**  
+![Streak](https://streak-stats.demolab.com?user=Tanish02&theme=chartreuse-dark&hide_border=true&fire=EB1D36&currStreakLabel=39FF14)  
 
-🎨 Language Palette  
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanish02&theme=radical&hide_border=true&layout=pie)  
+🕹️ **Skill Tree**  
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanish02&layout=compact&theme=chartreuse-dark&hide_border=true)  
 
 </div>
+
 
 
 ---
