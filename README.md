@@ -56,9 +56,24 @@ Here’s my toolkit — the toys I love tinkering with:
 ---
 
 ## 📊 GitHub Stats  
-![](https://github-readme-stats.vercel.app/api?username=Tanish02&theme=aura&hide_border=false&include_all_commits=true&count_private=false)  
-![](https://nirzak-streak-stats.vercel.app/?user=Tanish02&theme=aura&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanish02&theme=aura&hide_border=false&include_all_commits=true&count_private=false&layout=compact)  
+
+<div align="center">
+
+### 🏅 Profile Overview  
+![Tanish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tanish02&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true)  
+
+### 🔥 Contribution Streak  
+![GitHub Streak](https://streak-stats.demolab.com?user=Tanish02&theme=tokyonight&hide_border=true&fire=FF6F91&currStreakLabel=FFD700)  
+
+### 🧩 Languages I Play With  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanish02&layout=donut&theme=tokyonight&hide_border=true)  
+
+---
+
+### 🌱 Contribution Graph (Animated)
+[![Tanish's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Tanish02&theme=tokyo-night&hide_border=true)](https://github.com/Tanish02)  
+
+</div>
 
 ---
 
