@@ -11,54 +11,7 @@
       </linearGradient>
     </defs>
 
-    <!-- React -->
-    <g transform="translate(100,90)">
-      <circle r="18" fill="none" stroke="#61DAFB" stroke-width="3"/>
-      <circle r="4" fill="#61DAFB"/>
-      <animateTransform attributeName="transform" type="translate" values="100,90;100,60;100,90" dur="4s" repeatCount="indefinite"/>
-    </g>
-
-    <!-- Node.js -->
-    <g transform="translate(200,100)">
-      <polygon points="0,-20 18,-10 18,10 0,20 -18,10 -18,-10" fill="#68A063"/>
-      <text x="-10" y="5" font-size="12" fill="white" font-family="monospace">JS</text>
-      <animateTransform attributeName="transform" type="translate" values="200,100;200,70;200,100" dur="5s" repeatCount="indefinite"/>
-    </g>
-
-    <!-- MongoDB -->
-    <g transform="translate(300,95)">
-      <path d="M0 -25 C5 -10 5 10 0 25 C-5 10 -5 -10 0 -25Z" fill="#4DB33D"/>
-      <animateTransform attributeName="transform" type="translate" values="300,95;300,65;300,95" dur="6s" repeatCount="indefinite"/>
-    </g>
-
-    <!-- Next.js -->
-    <g transform="translate(400,95)">
-      <circle r="20" fill="black" stroke="white" stroke-width="2"/>
-      <text x="-12" y="6" font-size="14" fill="white" font-family="monospace">Next</text>
-      <animateTransform attributeName="transform" type="translate" values="400,95;400,65;400,95" dur="5s" repeatCount="indefinite"/>
-    </g>
-
-    <!-- JavaScript -->
-    <g transform="translate(500,95)">
-      <rect x="-18" y="-18" width="36" height="36" fill="#F7DF1E" rx="5"/>
-      <text x="-10" y="6" font-size="14" fill="black" font-family="monospace">JS</text>
-      <animateTransform attributeName="transform" type="translate" values="500,95;500,65;500,95" dur="4s" repeatCount="indefinite"/>
-    </g>
-
-    <!-- Java -->
-    <g transform="translate(600,95)">
-      <text font-size="20" fill="#E76F00" font-family="monospace">☕</text>
-      <animateTransform attributeName="transform" type="translate" values="600,95;600,65;600,95" dur="6s" repeatCount="indefinite"/>
-    </g>
-
-    <!-- Python -->
-    <g transform="translate(700,95)">
-      <circle r="18" fill="#306998"/>
-      <text x="-9" y="6" font-size="14" fill="white" font-family="monospace">Py</text>
-      <animateTransform attributeName="transform" type="translate" values="700,95;700,65;700,95" dur="5s" repeatCount="indefinite"/>
-    </g>
-  </svg>
-</p>
+   
 
 ---
 
