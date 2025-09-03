@@ -63,23 +63,20 @@ Here’s my toolkit — the toys I love tinkering with:
 
 ---
 
-
 ## 🎮 GitHub Leaderboard  
 
 <div align="center">
 
 🏆 **Level Progress**  
-![Stats](https://github-readme-stats.vercel.app/api?username=Tanish02&show_icons=true&theme=chartreuse-dark&hide_border=true&rank_icon=github)  
+![Stats](https://github-readme-stats.vercel.app/api?username=Tanish02&show_icons=true&theme=chartreuse-dark&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true)  
 
 🔥 **Combo Streaks**  
 ![Streak](https://streak-stats.demolab.com?user=Tanish02&theme=chartreuse-dark&hide_border=true&fire=EB1D36&currStreakLabel=39FF14)  
 
 🕹️ **Skill Tree**  
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanish02&layout=compact&theme=chartreuse-dark&hide_border=true)  
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanish02&layout=compact&theme=chartreuse-dark&hide_border=true&count_private=true)  
 
 </div>
-
-
 
 ---
 
@@ -87,5 +84,3 @@ Here’s my toolkit — the toys I love tinkering with:
 ![](https://github-profile-trophy.vercel.app/?username=Tanish02&theme=radical&no-frame=false&no-bg=false&margin-w=4)  
 
 ---
-
-
