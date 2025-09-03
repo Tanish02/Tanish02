@@ -1,3 +1,6 @@
+<!-- Banner -->
+
+
 ---
 
 ## 💫 About Me  
@@ -82,13 +85,13 @@
 <div align="center">
 
 **🏅 Level Progress**  
-![Stats](https://github-readme-stats.vercel.app/api?username=Tanish02&show_icons=true&theme=dark&title_color=FF0000&text_color=FFFFFF&icon_color=FF0000&bg_color=000000&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true)  
+![Stats](https://github-readme-stats.vercel.app/api?username=Tanish02&show_icons=true&theme=chartreuse-dark&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true)  
 
 **🔥 Combo Streaks**  
-![Streak](https://github-readme-streak-stats-eight.vercel.app?user=Tanish02&theme=dark&hide_border=true&background=000000&ring=FF0000&fire=FF0000&currStreakLabel=FF0000&sideNums=FFFFFF&currStreakNum=FF0000&sideLabels=FFFFFF)  
+![Streak](https://github-readme-streak-stats-eight.vercel.app?user=Tanish02&theme=chartreuse-dark&hide_border=true&fire=EB1D36&currStreakLabel=39FF14)  
 
 **🕹️ Skill Tree**  
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanish02&layout=donut&theme=dark&title_color=FF0000&text_color=FFFFFF&bg_color=000000&hide_border=true&count_private=true)  
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanish02&layout=donut&theme=chartreuse-dark&hide_border=true&count_private=true)  
 
 </div>
 
@@ -100,7 +103,7 @@
 ---
 
 ## 🌱 Contribution Graph  
-[![Tanish’s activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Tanish02&theme=redical&hide_border=true&bg_color=000000&line=FF0000&point=FF0000&area=true&area_color=FF0000)](https://github.com/Tanish02)  
+[![Tanish’s activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Tanish02&theme=react-dark&hide_border=true&bg_color=0D1117&line=39FF14&point=FFFFFF)](https://github.com/Tanish02)  
 
 ---
 
