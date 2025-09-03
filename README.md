@@ -1,7 +1,4 @@
-<!-- Banner -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Tanish!;Full-Stack+Explorer+%F0%9F%9A%80;Always+Learning+Always+Building+%F0%9F%92%BB;Open+for+Collaboration+%F0%9F%A4%9D" alt="Typing SVG" />
 
----
 
 ## 💫 About Me  
 ✨ A curious explorer in the world of tech — still learning, building, and sometimes breaking things on purpose 😅  
