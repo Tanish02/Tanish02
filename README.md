@@ -1,17 +1,5 @@
 <!-- Banner -->
-<p align="center">
-  <svg width="800" height="150" viewBox="0 0 800 150" xmlns="http://www.w3.org/2000/svg">
-    <!-- Background -->
-    <rect width="800" height="150" fill="url(#grad)" rx="15"/>
-    <defs>
-      <linearGradient id="grad" x1="0" y1="0" x2="800" y2="0" gradientUnits="userSpaceOnUse">
-        <stop stop-color="#000000" offset="0%"/>
-        <stop stop-color="#1a0000" offset="50%"/>
-        <stop stop-color="#ff0000" offset="100%"/>
-      </linearGradient>
-    </defs>
-
-   
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Tanish!;Full-Stack+Explorer+%F0%9F%9A%80;Always+Learning+Always+Building+%F0%9F%92%BB;Open+for+Collaboration+%F0%9F%A4%9D" alt="Typing SVG" />
 
 ---
 
@@ -27,7 +15,8 @@
 ## 🔥 Fun Counter  
 [![](https://visitcount.itsvg.in/api?id=Tanish02&icon=10&color=13)](https://visitcount.itsvg.in)  
 🎉 You’re visitor number **X** — thanks for dropping by!  
-✨ *“Code is like humor. When you have to explain it, it’s bad.”*  
+
+> ✨ *“Code is like humor. When you have to explain it, it’s bad.”*  
 
 ---
 
