@@ -10,9 +10,10 @@
 ---
 
 ## 🔥 Fun Counter  
-  
+[![](https://visitcount.itsvg.in/api?id=Tanish02&icon=10&color=13)](https://visitcount.itsvg.in)  
 🎉 You’re visitor number **X** — thanks for dropping by!  
-✨ *“Code is like humor. When you have to explain it, it’s bad.”*  
+
+> ✨ *“Code is like humor. When you have to explain it, it’s bad.”*  
 
 ---
 
