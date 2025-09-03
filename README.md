@@ -18,8 +18,6 @@ I’m a curious explorer in the world of tech — still learning, building, and 
 [![](https://visitcount.itsvg.in/api?id=Tanish02&icon=10&color=13)](https://visitcount.itsvg.in)  
 🎉 You’re visitor number **X** — thanks for stopping by!  
 
----
-
 ✨ _“Code is like humor. When you have to explain it, it’s bad.”_  
 
 ---
