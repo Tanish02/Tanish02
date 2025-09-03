@@ -55,25 +55,22 @@ Here’s my toolkit — the toys I love tinkering with:
 
 ---
 
+
 ## 📊 GitHub Stats  
 
 <div align="center">
 
-### 🏅 Profile Overview  
-![Tanish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tanish02&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true)  
+⚡ Overall Activity  
+![Stats](https://github-readme-stats.vercel.app/api?username=Tanish02&show_icons=true&theme=radical&hide_border=true&rank_icon=percentile)  
 
-### 🔥 Contribution Streak  
-![GitHub Streak](https://streak-stats.demolab.com?user=Tanish02&theme=tokyonight&hide_border=true&fire=FF6F91&currStreakLabel=FFD700)  
+🔥 Streak Power  
+![Streak](https://streak-stats.demolab.com?user=Tanish02&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)  
 
-### 🧩 Languages I Play With  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanish02&layout=donut&theme=tokyonight&hide_border=true)  
-
----
-
-### 🌱 Contribution Graph (Animated)
-[![Tanish's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Tanish02&theme=tokyo-night&hide_border=true)](https://github.com/Tanish02)  
+🎨 Language Palette  
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanish02&theme=radical&hide_border=true&layout=pie)  
 
 </div>
+
 
 ---
 
