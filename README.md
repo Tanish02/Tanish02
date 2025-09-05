@@ -1,6 +1,5 @@
 <!-- Banner -->
 
-
 ---
 
 ## 💫 About Me  
@@ -83,7 +82,7 @@
 <div align="center">
 
 **🏅 Level Progress**  
-![Stats](https://github-readme-stats.vercel.app/api?username=Tanish02&show_icons=true&theme=chartreuse-dark&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true)  
+![Stats](https://github-readme-stats.vercel.app/api?username=Tanish02&show_icons=true&theme=chartreuse-dark&hide_border=true&rank_icon=github&count_private=true)  
 
 **🔥 Combo Streaks**  
 ![Streak](https://github-readme-streak-stats-eight.vercel.app?user=Tanish02&theme=chartreuse-dark&hide_border=true&fire=EB1D36&currStreakLabel=39FF14)  
