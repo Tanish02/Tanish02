@@ -31,7 +31,7 @@
 <td align="center" width="33%">
   
 **Frontend**  
-🌐 Building sleek interfaces  
+🌐 Building interfaces ✌ 
   
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)  
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)  
@@ -45,8 +45,8 @@
 </td>
 <td align="center" width="33%">
   
-**Backend & Tools**  
-⚙️ Making things work behind the scenes  
+💻 **Back-end & Tools** 🛢️
+⚙️ Making & learning things behind the scenes  
   
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)  
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=flat&logo=nestjs&logoColor=white)  
@@ -57,8 +57,8 @@
 </td>
 <td align="center" width="33%">
   
-**Data & AI**  
-📊 Crunching numbers & models  
+🌐 **Data & AI**  
+ Crunching numbers & models  
   
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)  
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)  
