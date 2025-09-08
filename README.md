@@ -4,7 +4,8 @@
 ---
 
 ## 💫 About Me  
-✨ A curious explorer in the world of tech — still learning, building, and sometimes breaking things on purpose 😅  
+✨ A curious explorer in the world of tech.  
+⚠ still learning, building, and sometimes breaking things on purpose 😅  
 🛠️ Turning ideas into real-world projects.  
 🌱 Expanding my skills across **Mern-stack development**, **full-stack development**, **data science**, and **AI**.  
 🤝 Looking to collaborate with fellow creators & builders.  
