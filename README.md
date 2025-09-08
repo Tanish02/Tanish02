@@ -5,8 +5,8 @@
 
 ## 💫 About Me  
 ✨ A curious explorer in the world of tech — still learning, building, and sometimes breaking things on purpose 😅  
-🛠️ Turning ideas into real-world projects is my jam.  
-🌱 Expanding my skills across **full-stack development**, **data science**, and **AI**.  
+🛠️ Turning ideas into real-world projects.  
+🌱 Expanding my skills across **MERN-stack development**, **full-stack development**, **data science**, and **AI**.  
 🤝 Looking to collaborate with fellow creators & builders.  
 🎯 Goal: Build meaningful projects that actually solve problems.  
 
