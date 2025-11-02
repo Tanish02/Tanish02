@@ -83,28 +83,37 @@
 
 <div align="center">
 
-**🏅 Level Progress**  
-![Stats](https://github-readme-stats.vercel.app/api?username=Tanish02&show_icons=true&theme=chartreuse-dark&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true)  
+### 🏅 Level Progress  
+![Stats](https://github-readme-stats.vercel.app/api?username=Tanish02&show_icons=true&theme=chartreuse-dark&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true&cache_seconds=600)  
 
-**🔥 Combo Streaks**  
-![Streak](https://github-readme-streak-stats-eight.vercel.app?user=Tanish02&theme=chartreuse-dark&hide_border=true&fire=EB1D36&currStreakLabel=39FF14)  
+---
 
-**🕹️ Skill Tree**  
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanish02&layout=donut&theme=chartreuse-dark&hide_border=true&count_private=true)  
+### 🔥 Combo Streaks  
+![Streak](https://github-readme-streak-stats-eight.vercel.app?user=Tanish02&theme=chartreuse-dark&hide_border=true&fire=EB1D36&currStreakLabel=39FF14&date_format=j%20M%5B%20Y%5D)  
+
+---
+
+### 🕹️ Skill Tree  
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanish02&layout=donut&theme=chartreuse-dark&hide_border=true&count_private=true&cache_seconds=600)  
 
 </div>
 
 ---
 
 ## 🏆 GitHub Trophies 🏅  
-![](https://github-profile-trophy.vercel.app/?username=Tanish02&theme=radical&no-frame=false&no-bg=false&margin-w=4)  
+![Trophies](https://github-profile-trophy.vercel.app/?username=Tanish02&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1)  
 
 ---
 
 ## 🌱 Contribution Graph  
-[![Tanish’s activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Tanish02&theme=react-dark&hide_border=true&bg_color=0D1117&line=39FF14&point=FFFFFF)](https://github.com/Tanish02)  
+[![Tanish’s activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Tanish02&theme=react-dark&hide_border=true&bg_color=0D1117&line=39FF14&point=FFFFFF&area=true&custom_title=Tanish's%20Contribution%20Graph)](https://github.com/Tanish02)
 
 ---
+
+<p align="center">
+💡 *Consistency builds mastery — keep committing and watch your graph grow!* 🚀
+</p>
+
 
 <!-- Footer -->
 <p align="center">  
