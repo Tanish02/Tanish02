@@ -1,6 +1,6 @@
 <!-- Header -->
 <h1 align="center">✨ Hey, I'm <span style="color:#39FF14;">Tanish</span> 👋</h1>
-<h3 align="center">🚀 Full-Stack Developer | MERN | Data & AI Explorer</h3>
+<h3 align="center">🚀 BACKEND Developer | MERN-Stack Developer | FULL | Data & AI Explorer</h3>
 
 ---
 
