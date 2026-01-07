@@ -1,31 +1,26 @@
-<!-- ================= HEADER ================= -->
-
 <h1 align="center">✨ Hey, I'm Tanish 👋</h1>
+
 <h3 align="center">
 🚀 Backend Developer | MERN Stack | Full-Stack Learner | Data & AI Explorer
 </h3>
 
 <p align="center">
-Curious builder who loves turning ideas into real-world solutions.
+I love building scalable backend systems and turning ideas into real-world solutions.
 </p>
 
 ---
 
-<!-- ================= ABOUT ================= -->
+## 🧑‍💻 About Me
 
-## 🧑‍💻 About Me  
-
-- 🔍 Passionate about backend systems & scalable APIs  
-- 🛠 Building real-world projects (and learning from breaking things 😄)  
-- 🌱 Currently exploring **MERN, Full Stack, AI & Data Science**  
-- 🤝 Open to collaboration on meaningful projects  
-- 🎯 Goal: Build tools that **solve real problems**
+- 🔍 Passionate about backend development & system design  
+- 🛠 Building real-world projects with Node.js & MERN  
+- 🌱 Learning Full-Stack Development, AI & Data Science  
+- 🤝 Open to collaborating on impactful projects  
+- 🎯 Goal: Build meaningful tools that solve real problems  
 
 ---
 
-<!-- ================= CONNECT ================= -->
-
-## 🌐 Connect With Me  
+## 🌐 Connect With Me
 
 <p align="center">
   <a href="mailto:tanishsharma080@gmail.com">
@@ -39,69 +34,56 @@ Curious builder who loves turning ideas into real-world solutions.
 
 ---
 
-<!-- ================= TECH STACK ================= -->
+## 🛠 Tech Stack
 
-## 🛠 Tech Playground  
-
-### 💻 Frontend  
-![HTML5](https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-007ACC?style=flat&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/react-20232a?style=flat&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+### 💻 Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 
 ---
 
-### ⚙️ Backend & Tools  
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/nestjs-E0234E?style=flat&logo=nestjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/mongodb-4EA94B?style=flat&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-0db7ed?style=flat&logo=docker&logoColor=white)
+### ⚙️ Backend & Tools
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=flat&logo=docker&logoColor=white)
 
 ---
 
-### 🤖 Data & AI  
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-![Pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-013243?style=flat&logo=numpy&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/tensorflow-FF6F00?style=flat&logo=TensorFlow&logoColor=white)
+### 🤖 Data & AI
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 
 ---
 
-<!-- ================= GITHUB STATS WITH FALLBACK ================= -->
-## 📊 GitHub Stats  
+## 📊 GitHub Overview (Stable & Native)
 
-<div align="center">
+- 🟢 Active contributor with consistent commits  
+- 📁 Multiple public repositories across backend & frontend  
+- 🔁 Regularly building and improving projects  
+- 🌱 Continuously learning and experimenting  
 
-### 📈 Profile Stats  
-
-<img src="https://github-readme-stats.vercel.app/api?username=Tanish02&show_icons=true&theme=chartreuse-dark&hide_border=true" />
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Tanish02&show_icons=true&theme=chartreuse-dark&hide_border=true" />
-
----
-
-### 🔥 Streak Stats  
-
-<img src="https://streak-stats.demolab.com?user=Tanish02&theme=chartreuse-dark&hide_border=true" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Tanish02&theme=chartreuse-dark&hide_border=true" />
+> 📌 GitHub already shows contributions, streaks, and activity **natively** on your profile — no external images needed.
 
 ---
 
-### 🌱 Activity Graph  
+## 🌱 Contribution Activity
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tanish02&theme=react-dark&hide_border=true&area=true" />
-<img src="https://activity-graph.herokuapp.com/graph?username=Tanish02&theme=react-dark" />
 
-</div>
+> _Consistency builds mastery — keep committing and growing 🚀_
 
 ---
 
-<!-- ================= FOOTER ================= -->
-
-## 💬 Final Note  
+## 💬 Final Note
 
 <p align="center">
-✨ If you made it this far — let’s connect and build something awesome together!  
+✨ If you made it this far — let’s connect and build something awesome together!
 </p>
