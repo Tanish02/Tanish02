@@ -1,130 +1,117 @@
-<!-- Header -->
-<h1 align="center">✨ Hey, I'm <span style="color:#39FF14;">Tanish</span> 👋</h1>
-<h3 align="center">🚀 BACKEND Developer | MERN-Stack Developer | FULL | Data & AI Explorer</h3>
+<!-- ================= HEADER ================= -->
+
+<h1 align="center">✨ Hey, I'm Tanish 👋</h1>
+<h3 align="center">
+🚀 Backend Developer | MERN Stack | Full-Stack Learner | Data & AI Explorer
+</h3>
+
+<p align="center">
+Curious builder who loves turning ideas into real-world solutions.
+</p>
 
 ---
+
+<!-- ================= ABOUT ================= -->
 
 ## 🧑‍💻 About Me  
 
-- 🔍 Curious explorer in the world of tech  
-- 🛠 Building real-world projects & occasionally breaking things on purpose 😅  
-- 🌱 Learning MERN stack, full-stack development, AI & data science  
-- 🤝 Open to collaborating on innovative projects  
-- 🎯 Goal: Build meaningful tools that solve real problems  
+- 🔍 Passionate about backend systems & scalable APIs  
+- 🛠 Building real-world projects (and learning from breaking things 😄)  
+- 🌱 Currently exploring **MERN, Full Stack, AI & Data Science**  
+- 🤝 Open to collaboration on meaningful projects  
+- 🎯 Goal: Build tools that **solve real problems**
 
 ---
+
+<!-- ================= CONNECT ================= -->
 
 ## 🌐 Connect With Me  
 
-<p>
+<p align="center">
   <a href="mailto:tanishsharma080@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
-💬 Always happy to talk about **code, projects, ideas or memes**.
+<p align="center">
+💬 Always happy to talk about <b>code, projects, ideas, or memes</b>.
+</p>
 
 ---
 
-# 🛠 Tech Playground  
+<!-- ================= TECH STACK ================= -->
 
-<table align="center">
-<tr>
-<td align="center" width="33%">
+## 🛠 Tech Playground  
 
-### 💻 Front-end  
-🌐 Crafting beautiful interfaces  
-<br>
+### 💻 Frontend  
+![HTML5](https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-007ACC?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-20232a?style=flat&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
-![AngularJS](https://img.shields.io/badge/angular.js-%23E23237.svg?style=flat&logo=angularjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white)
+---
 
-</td>
-<td align="center" width="33%">
-
-### ⚙️ Back-end & Tools  
-🛢 Building the engine behind the scenes  
-<br>
-
+### ⚙️ Backend & Tools  
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=flat&logo=nestjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
+![NestJS](https://img.shields.io/badge/nestjs-E0234E?style=flat&logo=nestjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/mongodb-4EA94B?style=flat&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-0db7ed?style=flat&logo=docker&logoColor=white)
 
-</td>
-<td align="center" width="33%">
+---
 
 ### 🤖 Data & AI  
-📊 Crunching numbers & training models  
-<br>
-
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white)
-
-</td>
-</tr>
-</table>
-
-### 🔧 Others I Use  
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=flat&logo=prettier&logoColor=black)
+![Pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-013243?style=flat&logo=numpy&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/tensorflow-FF6F00?style=flat&logo=TensorFlow&logoColor=white)
 
 ---
 
-# 🏆 GitHub Leaderboard  
+<!-- ================= GITHUB STATS WITH FALLBACK ================= -->
+
+## 📊 GitHub Stats  
 
 <div align="center">
 
-### 📊 Profile Stats  
-<img src="https://github-readme-stats.vercel.app/api?username=Tanish02&show_icons=true&theme=chartreuse-dark&hide_border=true&rank_icon=default" />
+### 📈 Profile Stats  
+
+<picture>
+  <source srcset="https://github-readme-stats.vercel.app/api?username=Tanish02&show_icons=true&theme=chartreuse-dark&hide_border=true">
+  <source srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Tanish02&show_icons=true&theme=chartreuse-dark&hide_border=true">
+  <img alt="GitHub Profile Stats" src="https://github-readme-stats.vercel.app/api?username=Tanish02">
+</picture>
 
 ---
 
 ### 🔥 Streak Stats  
-<img src="https://streak-stats.demolab.com?user=Tanish02&theme=chartreuse-dark&hide_border=true" />
+
+<picture>
+  <source srcset="https://streak-stats.demolab.com?user=Tanish02&theme=chartreuse-dark&hide_border=true">
+  <source srcset="https://github-readme-streak-stats.herokuapp.com/?user=Tanish02&theme=chartreuse-dark&hide_border=true">
+  <img alt="GitHub Streak Stats" src="https://streak-stats.demolab.com?user=Tanish02">
+</picture>
 
 ---
 
-### 🧠 Skill Tree  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanish02&layout=donut&theme=chartreuse-dark&hide_border=true" />
+### 🌱 Activity Graph  
+
+<picture>
+  <source srcset="https://github-readme-activity-graph.vercel.app/graph?username=Tanish02&theme=react-dark&hide_border=true&area=true">
+  <source srcset="https://activity-graph.herokuapp.com/graph?username=Tanish02&theme=react-dark">
+  <img alt="GitHub Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Tanish02">
+</picture>
 
 </div>
 
 ---
 
-# 🏅 GitHub Trophies  
+<!-- ================= FOOTER ================= -->
+
+## 💬 Final Note  
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Tanish02&theme=radical&margin-w=12&no-frame=true" />
-</p>
-
----
-
-# 🌱 Contribution Graph  
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tanish02&theme=react-dark&hide_border=true&area=true" />
-</p>
-
-<p align="center">
-  💡 <i>Consistency builds mastery — keep committing and growing 🚀</i>
-</p>
-
----
-
-# 💬 Final Note  
-<p align="center">
-  ✨ If you made it this far — let's connect and build something awesome together!  
+✨ If you made it this far — let’s connect and build something awesome together!  
 </p>
