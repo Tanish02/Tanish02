@@ -71,38 +71,28 @@ Curious builder who loves turning ideas into real-world solutions.
 ---
 
 <!-- ================= GITHUB STATS WITH FALLBACK ================= -->
-
 ## 📊 GitHub Stats  
 
 <div align="center">
 
 ### 📈 Profile Stats  
 
-<picture>
-  <source srcset="https://github-readme-stats.vercel.app/api?username=Tanish02&show_icons=true&theme=chartreuse-dark&hide_border=true">
-  <source srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Tanish02&show_icons=true&theme=chartreuse-dark&hide_border=true">
-  <img alt="GitHub Profile Stats" src="https://github-readme-stats.vercel.app/api?username=Tanish02">
-</picture>
+<img src="https://github-readme-stats.vercel.app/api?username=Tanish02&show_icons=true&theme=chartreuse-dark&hide_border=true" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Tanish02&show_icons=true&theme=chartreuse-dark&hide_border=true" />
 
 ---
 
 ### 🔥 Streak Stats  
 
-<picture>
-  <source srcset="https://streak-stats.demolab.com?user=Tanish02&theme=chartreuse-dark&hide_border=true">
-  <source srcset="https://github-readme-streak-stats.herokuapp.com/?user=Tanish02&theme=chartreuse-dark&hide_border=true">
-  <img alt="GitHub Streak Stats" src="https://streak-stats.demolab.com?user=Tanish02">
-</picture>
+<img src="https://streak-stats.demolab.com?user=Tanish02&theme=chartreuse-dark&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Tanish02&theme=chartreuse-dark&hide_border=true" />
 
 ---
 
 ### 🌱 Activity Graph  
 
-<picture>
-  <source srcset="https://github-readme-activity-graph.vercel.app/graph?username=Tanish02&theme=react-dark&hide_border=true&area=true">
-  <source srcset="https://activity-graph.herokuapp.com/graph?username=Tanish02&theme=react-dark">
-  <img alt="GitHub Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Tanish02">
-</picture>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tanish02&theme=react-dark&hide_border=true&area=true" />
+<img src="https://activity-graph.herokuapp.com/graph?username=Tanish02&theme=react-dark" />
 
 </div>
 
